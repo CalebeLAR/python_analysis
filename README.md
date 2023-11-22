@@ -1,8 +1,11 @@
 # python_analysis  
 
 **Pyton para Análise  de sados Tratamento de dados com pandas, NumPY e Jupyter** wes mckinney  
- - capítulo 01. Introdução
-    sobre oque é este livro?
-    Quais são os tipos de dados?
- - 1.2 Por que Python para análise de dados?
+   capítulo 1: introdução ao python  
+      1.4: instalação no windows  
 
+   capítulo 2: Aspectos Básicos da Linguagem Python, Ipython e Jupyter Notebooks
+      2.1: Interpretador Python
+      2.2: Aspectos Básicos do Ipython
+         - preenchimento automático com tabulação
+         
