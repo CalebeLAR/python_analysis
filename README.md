@@ -26,5 +26,14 @@
     - Tipos Numéricos  
     - Strings  
     - Bytes e Unicode  
+    - Booleanos  
+    - Casting de tipos  
+    - Datas e horas  
+    - Controle de fluxo  
+    - if, elif e else  
+    - Laços for  
+    - Laços while  
+    - pass  
+    - _Expressões ternárias_  
 
 
