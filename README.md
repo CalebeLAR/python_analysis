@@ -36,4 +36,15 @@
     - pass  
     - _Expressões ternárias_  
 
+#### capítulo 3: Estruturas de dados embutidas, funções e arquivos  
+- 3.1: Estruturas de dados e sequências
+    - Tupla  
+    - Desempacotando tuplas  
+    - Métodos de tupla  
+    - Lista  
+    - Adicionando e removendo elementos  
+    - Concatenando e combinando listas  
+    - Ordenação  
+    - _Busca binária e manutenção de uma lista ordenada_  
+    - Fatiamento 
 
