@@ -46,5 +46,12 @@
     - Concatenando e combinando listas  
     - Ordenação  
     - _Busca binária e manutenção de uma lista ordenada_  
-    - Fatiamento 
-
+    - Fatiamento  
+    - _Funções embutidas para sequências_  
+    - _enumerate_  
+    - _sorted_  
+    - _zip_  
+    - _reversed_  
+    - Dicionário  
+    - Tipos de chave de dicionário válido  
+    - Conjunto  
