@@ -55,3 +55,9 @@
     - Dicionário  
     - Tipos de chave de dicionário válido  
     - Conjunto  
+    - _List, sete dict comprehensions_   
+    - Funções de Sequências Internas  
+    - enumerate  
+    - sorted  
+    - zip  
+    - List comprehensions aninhadas  
